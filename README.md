@@ -1,4 +1,4 @@
-# All the Math You Need to Know in Artificial Intelligence
+# Study Material
 
 Hello, I'm [Meet Raval](https://github.com/ravalmeet/), This repository serves as a comprehensive home for study materials covering a range of essential topics, including Data Structures and Algorithms, Database Management Systems, Data Science, Machine Learning, Deep Learning, Artificial Intelligence, and Mathematics.
 
