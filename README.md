@@ -10,4 +10,4 @@ Hello, I'm [Meet Raval](https://github.com/ravalmeet/), This repository serves a
  4. [Machine Learning](#probability-and-statistics)
  5. [Deep Learning](#information-theory)
  5. [Artificial Intelligence](https://github.com/ravalmeet/Study-Material/tree/main/Artificial%20Intelligence)
- 6. [Mathematics](#information-theory)
+ 6. [Mathematics](https://github.com/ravalmeet/Study-Material/tree/main/Artificial%20Intelligence/1%20Mathematics%20and%20Statistics)
