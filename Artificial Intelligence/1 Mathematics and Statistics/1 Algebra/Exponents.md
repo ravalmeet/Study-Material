@@ -34,4 +34,4 @@ Exponents and logarithms are frequently used in machine learning algorithms, esp
 7. Given the function \(g(x) = 3 \cdot 2^x\), calculate \(g(2)\).
 
 ## Other Learning Resource
-(http://www.mclph.umn.edu/mathrefresh/exponents.html)
+http://www.mclph.umn.edu/mathrefresh/exponents.html
