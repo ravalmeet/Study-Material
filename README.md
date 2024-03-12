@@ -4,7 +4,7 @@ Hello, I'm [Meet Raval](https://github.com/ravalmeet/), This repository serves a
 
 ## Table of Contents
 
- 1. [Data Structures and Algorithms](#algebra)
+ 1. [Data Structures and Algorithms](https://github.com/ravalmeet/Study-Material/tree/main/Data%20Structures%20and%20Algorithms)
  2. [Database Management Systems](#linear-algebra)
  3. [Data Science](#calculus)
  4. [Machine Learning](#probability-and-statistics)
