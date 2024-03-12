@@ -32,3 +32,7 @@ Radicals often appear in mathematical expressions used in machine learning algor
 5. Express in simplified form: \(\sqrt[3]{64}\).
 6. Add: \(\sqrt{25} + \sqrt{16}\).
 7. Multiply: \(\sqrt{7} \cdot \sqrt{14}\).
+
+## Other Learning Resource
+
+https://tutorial.math.lamar.edu/classes/alg/Radicals.aspx
