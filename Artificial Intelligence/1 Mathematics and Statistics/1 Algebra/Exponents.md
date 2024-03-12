@@ -25,10 +25,13 @@ The inverse operation of exponentiation. If \(b^y = x\), then \(\log_b(x) = y\).
 Exponents and logarithms are frequently used in machine learning algorithms, especially in optimization problems and modeling exponential growth or decay.
 
 ## Practice Problems
-Solve various problems involving exponents to reinforce understanding.
+1. Simplify the expression: \(2^5 \cdot 2^3\).
+2. Evaluate the following: \(\frac{5^4}{5^2}\).
+3. Find the value of \(3^{2 \times 4}\).
+4. Calculate \(2^{-3}\).
+5. Solve for \(x\) in the equation \(4^x = 64\).
+6. Express \(1000\) in scientific notation.
+7. Given the function \(g(x) = 3 \cdot 2^x\), calculate \(g(2)\).
 
-Feel free to expand upon these notes, create examples, and explore additional resources for a more comprehensive understanding.
-
----
-
-**Note:** These are general notes. Depending on your specific needs in machine learning, you may want to dive deeper into certain areas.
+## Other Learning Resource
+http://www.mclph.umn.edu/mathrefresh/exponents.html
