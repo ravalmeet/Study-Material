@@ -5,9 +5,9 @@ Hello, I'm [Meet Raval](https://github.com/ravalmeet/), This repository serves a
 ## Table of Contents
 
  1. [Data Structures and Algorithms](https://github.com/ravalmeet/Study-Material/tree/main/Data%20Structures%20and%20Algorithms)
- 2. [Database Management Systems](#linear-algebra)
+ 2. [Database Management Systems](https://github.com/ravalmeet/Study-Material/tree/main/Database%20Management%20System)
  3. [Data Science](#calculus)
  4. [Machine Learning](#probability-and-statistics)
  5. [Deep Learning](#information-theory)
- 5. [Artificial Intelligence](#information-theory)
+ 5. [Artificial Intelligence](https://github.com/ravalmeet/Study-Material/tree/main/Artificial%20Intelligence)
  6. [Mathematics](#information-theory)
